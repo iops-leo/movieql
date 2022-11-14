@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../movieql-client.iml" filepath="$PROJECT_DIR$/../movieql-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweetql.iml" filepath="$PROJECT_DIR$/tweetql.iml" />
     </modules>
   </component>
 </project>
